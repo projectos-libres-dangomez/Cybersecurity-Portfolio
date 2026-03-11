@@ -6,6 +6,12 @@ Administro, implemento y analizo redes, sistemas y dispositivos
 organizacionales y trabajo para mantener los principios básicos 
 de seguridad, entre ellos, la confidencialidad, integridad y ética.
 
+Me apasiona la ciberseguridad porque creo que proteger la información 
+es proteger a las personas, tanto en su vida diaria como en el entorno 
+empresarial. Soy una persona responsable, aplicada y **perseverante** 
+en la búsqueda de soluciones, lo que me convierte en alguien honesto 
+y confiable para enfrentar los desafíos que presenta este campo.
+
 Actualmente me encuentro cursando la Certificación de Ciberseguridad 
 de Google en Coursera, donde estoy desarrollando conocimientos en 
 gestión de amenazas, marcos de seguridad (NIST, CISSP), herramientas 
