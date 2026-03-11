@@ -12,10 +12,10 @@ empresarial. Soy una persona responsable, aplicada y **perseverante**
 en la búsqueda de soluciones, lo que me convierte en alguien honesto 
 y confiable para enfrentar los desafíos que presenta este campo.
 
-Actualmente me encuentro cursando la Certificación de Ciberseguridad 
-de Google en Coursera, donde estoy desarrollando conocimientos en 
-gestión de amenazas, marcos de seguridad (NIST, CISSP), herramientas 
-SIEM y respuesta a incidentes.
+Actualmente curso la Certificación de Ciberseguridad de Google 
+en Coursera, donde estoy adquiriendo los conocimientos y las habilidades 
+necesarias para desarrollarme como analista de seguridad 
+y protección de datos.
 
 ## 🎓 Formación
 - 📚 Certificación de Ciberseguridad de Google (En progreso - 2025)
